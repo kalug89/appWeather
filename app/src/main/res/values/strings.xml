@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+
+    <string name="weather_title">Wpisz miasto aby zobaczyć pogodę</string>
+    <string name="weather_placeholder_description">Wpisz miasto:</string>
+
+
 </resources>
